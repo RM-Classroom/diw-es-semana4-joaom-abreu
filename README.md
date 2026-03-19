@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: João Mário Paes de Abreu
+- Matricula:1546713
+- Proposta de projeto escolhida: Coleções e Itens
+- Breve descrição sobre seu projeto: Um acervo de uma biblioteca de lvros onde aparecem os itens de seu acervo, organizados por nome do autor e tema, e que outros consumidores possam verificar o acervo de livros da biblioteca. 
 
 
 ## Print do(s) wireframe(s) criado
