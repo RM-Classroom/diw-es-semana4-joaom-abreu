@@ -10,10 +10,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Informações Gerais
 
 - Nome: João Mário Paes de Abreu
-- Matricula:1546713
-- Proposta de projeto escolhida: Coleções e Itens
-- Breve descrição sobre seu projeto: Um acervo de uma biblioteca de lvros onde aparecem os itens de seu acervo, organizados por nome do autor e tema, e que outros consumidores possam verificar o acervo de livros da biblioteca. 
-
+- Matricula: 1546713
+- Proposta de projeto escolhida: Pessoas e Produções
+- Breve descrição sobre seu projeto: Um acervo de uma biblioteca de livros, onde aparecem uma lista de autores (entidade principal), e ao clicar nos autores aparecem seus livros (entidade secundária) que estão disponíveis na biblioteca.
 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
