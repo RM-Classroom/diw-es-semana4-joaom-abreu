@@ -20,3 +20,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 (Feito no Canva)
 
 ## Print da home-page criada
+
+![Alt text](Homepage.png)
