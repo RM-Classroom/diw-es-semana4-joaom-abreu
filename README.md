@@ -15,12 +15,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Breve descrição sobre seu projeto: Um acervo de uma biblioteca de livros, onde aparecem uma lista de autores (entidade principal), e ao clicar nos autores aparecem seus livros (entidade secundária) que estão disponíveis na biblioteca.
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-
+![Alt text](Wireframe.png)
+(Feito no Canva)
 
 ## Print da home-page criada
-
-<<  COLOQUE A IMAGEM AQUI >>
