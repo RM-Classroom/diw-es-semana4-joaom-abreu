@@ -16,9 +16,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do(s) wireframe(s) criado
 
-![Alt text](Wireframe.png)
+![Alt text](public\Images\Wireframe.png)
 (Feito no Canva)
 
 ## Print da home-page criada
 
-![Alt text](Homepage.png)
+![Alt text](public\Images\Homepage.png)
